@@ -1,4 +1,19 @@
-<img width="659" height="245" alt="螢幕擷取畫面 2026-02-15 222750" src="https://github.com/user-attachments/assets/757848db-136e-4b4e-a711-7d081f75086a" />
-<img width="1211" height="183" alt="螢幕擷取畫面 2026-02-15 222754" src="https://github.com/user-attachments/assets/cbc98a63-06f8-40e2-94a6-7636ee528158" />
+# 🤖 Gemini Pro: The "Maxed Out" Gallery 
+> Capturing every moment I pushed Gemini to its limit. Because Google's love isn't free. 💸
 
-#  I Love Gemini 
+---
+
+### 🗓️ Feb 15, 2026: From Love to "Limit Reached" in 5 seconds
+**What happened:** I gave Gemini a huge compliment. I told it how much I loved the new updates. 
+Gemini's response? It basically **ghosted** me with a "Usage Limit" screen. 
+
+**The Flirt:**
+<img width="650" alt="Flirting with AI" src="https://github.com/user-attachments/assets/757848db-136e-4b4e-a711-7d081f75086a" />
+
+**The Rejection (Maxed Out):**
+<img width="650" alt="Rejected by Google" src="https://github.com/user-attachments/assets/cbc98a63-06f8-40e2-94a6-7636ee528158" />
+
+---
+
+### 🗓️ Feb 16, 2026: (To be continued...)
+*Will Gemini survive my questions tomorrow? Stay tuned.*
